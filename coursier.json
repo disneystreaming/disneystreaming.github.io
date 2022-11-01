@@ -18,5 +18,5 @@
     ],
     "mainClass": "smithytranslate.cli.Main",
     "launcherType": "bootstrap"
-  },
+  }
 }
