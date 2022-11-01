@@ -8,5 +8,15 @@
     ],
     "mainClass" : "smithy4s.codegen.cli.Main",
     "launcherType": "bootstrap"
+  },
+  "smithytranslate": {
+    "repositories": [
+      "central"
+    ],
+    "dependencies": [
+      "com.disneystreaming.smithy::smithytranslate-cli:latest.release"
+    ],
+    "mainClass": "smithytranslate.cli.Main",
+    "launcherType": "bootstrap"
   }
 }
